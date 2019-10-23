@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.deps.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\bin\Debug\netcoreapp2.0\Decorator.pdb
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.AssemblyInfo.cs
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.dll
+D:\InterviewS\PREPARING\DESIGNPATTERN\DecoratorPattern\Decorator\Decorator\obj\Debug\netcoreapp2.0\Decorator.pdb
